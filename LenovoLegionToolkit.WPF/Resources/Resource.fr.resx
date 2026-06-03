@@ -3428,7 +3428,7 @@ La journalisation sera activée automatiquement si vous choisissez de continuer.
     <value>Garantie</value>
   </data>
   <data name="Watt" xml:space="preserve">
-    <value>SM</value>
+    <value>W</value>
   </data>
   <data name="WhiteKeyboardBacklightAutomationStepControl_Message" xml:space="preserve">
     <value>Ajustez la luminosité du rétroéclairage du clavier.</value>
